@@ -1,0 +1,175 @@
+@media(max-width:800px){
+    .arrows{
+        display: block;
+      }
+      .btn-tow {
+        padding-left: 10rem;
+        padding-bottom: 2rem;
+      }
+      hr{
+        border: #ffffff solid;
+        color: #ffffff;
+        margin-left: 10rem;
+        margin-right: 10rem;
+        margin-bottom: 2rem;
+      }
+      .security {
+        color: #ffffff;
+        font-size: 30px;
+        font-family: Poppins-Bold;
+        padding: 2rem;
+        margin-left: 0rem;
+        margin-right: 0rem;
+        text-align: center;
+      }
+      .bottm-cor {
+        margin-left: 4rem;
+      }
+      .top-cor {
+        margin-bottom: 2rem;
+        margin-left: 1rem;
+      }
+      .courses {
+        margin-left: 0rem;
+        margin-bottom: 2rem;
+      }
+      .organi {
+        background-color: rgb(105, 102, 102);
+        padding: 0.5rem .5rem;
+        color: #ffffff;
+        border-radius: 3rem;
+        margin-right: 0.5rem;
+        font-family: Poppins-Bold;
+      }
+      .cards {
+        padding-right: 0rem;
+        padding-left: 14rem;
+      }
+      .ready {
+        color: #ffffff;
+       padding-left: 0rem;
+        font-family: Poppins-Bold;
+        font-size: 30px;
+        padding-top: 3rem;
+      }
+      .prove {
+        background-color: rgb(216, 6, 6);
+        padding: 0.5rem 2rem;
+        color: #ffffff;
+        border-radius: 3rem;
+        margin-left: 17rem;
+        margin-bottom: 3rem;
+        font-family: Poppins-Bold;
+      }
+      .three {
+        padding: 0rem;
+        padding-left: 0rem;
+      }
+      .number{
+        margin-top: 1rem;
+          margin-bottom: 1rem;
+      }
+      .small-text {
+        font-family: Poppins-Regular;
+        font-size: 16px;
+        text-align: center;
+        color: #000000;
+        padding-left: 0rem;
+        padding-right: 0rem;
+      }
+      .hubs{
+        padding-top: 4rem;
+        width: 6rem;
+      }
+      .coooo{
+          padding-left: 14rem;
+          padding-top: 2rem;
+      }
+}
+@media(max-width:500px){
+    .untiled{
+        width: 400px;
+      }
+      .advance {
+        color: #ffffff;
+        font-size: 30px;
+        font-family: Poppins-Bold;
+      }
+      .skill {
+        color: #ffffff;
+        font-size: 13px;
+        font-family: Poppins-Regular;
+      }
+      .nnew {
+        color: #ffffff;
+        font-size: 20px;
+        font-family: Poppins-Bold;
+        padding: 2rem;
+        text-align: center;
+      }
+      .btn-tow {
+        padding-left: 4rem;
+        padding-bottom: 2rem;
+      }
+      .security {
+        color: #ffffff;
+        font-size: 20px;
+        font-family: Poppins-Bold;
+        padding: 2rem;
+        margin-left: 0rem;
+        margin-right: 0rem;
+        text-align: center;
+      }
+      .cards {
+        padding-right: 0rem;
+        padding-left: 8rem;
+      }
+      .prove {
+        background-color: rgb(216, 6, 6);
+        padding: 0.5rem 2rem;
+        color: #ffffff;
+        border-radius: 3rem;
+        margin-left: 9rem;
+        margin-bottom: 3rem;
+        font-family: Poppins-Bold;
+      }
+      .coooo{
+        padding-left: 8rem;
+        padding-top: 2rem;
+    }
+        .organi {
+            background-color: rgb(105, 102, 102);
+            padding: 0.5rem 2rem;
+            color: #ffffff;
+            border-radius: 3rem;
+            margin-right:5rem;
+            margin-left: 6rem;
+            margin-bottom: .3rem;
+            font-family: Poppins-Bold;
+    }
+    .bottm-cor {
+        margin-left: 1rem;
+      }
+      .one-course {
+        background-color: rgb(216, 6, 6);
+        padding: 0.5rem 4rem;
+        color: #ffffff;
+        border-radius: 3rem;
+        margin-left: 6rem;
+        margin-bottom: 1rem;
+        font-family: Poppins-Bold;
+      }
+      .hubs{
+            padding-top: 4rem;
+            width: 10rem; 
+      }
+      .navbar-nav{
+          color: #ffffff;
+          border: #ffffff;
+      }
+      .img-person{
+        width: 15rem;
+        /* position: absolute;
+        bottom: -250rem; */
+      }
+}
